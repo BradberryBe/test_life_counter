@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">test_life_counter</string>
+    <string name="lifeCounter">life</string>
+    <string name="LifeGainButton">+1</string>
+    <string name="LifeLoss">-1</string>
+    <string name="LifeResetNorm">20</string>
+    <string name="LifeResetEDH">40</string>
+    <string name="LifeTotal">value</string>
+</resources>
